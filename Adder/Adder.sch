@@ -436,9 +436,9 @@ Wire Wire Line
 	9600 5850 9500 5850
 Connection ~ 9500 5850
 Wire Notes Line
-	400  5050 10450 5050
+	450  4700 10500 4700
 Wire Notes Line
-	400  2600 6200 2600
+	450  2450 6250 2450
 Wire Notes Line
 	6300 500  6300 6750
 $Comp
